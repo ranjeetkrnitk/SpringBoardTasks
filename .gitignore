@@ -4,14 +4,11 @@ Exercises/data/.DS_Store
 Exercises/data/loan.csv
 Exercises/data/weather_data.csv
 Exercises/data/weather_data.xls
-*.csv
-*.json
-*.pdf
-*.DS_Store
-*.gz
-Mini Projects/12.4/images/*.png
-Mini Projects/12.4/images/*.gif
 SelfProject/Real-time-face_mask-detection-master/*
 SelfProject/Real-time-face_mask-detection-master.zip
 Exercises/data/NASA_access_log_Aug95.txt
 Exercises/data/NASA_access_log_Jul95.txt
+*.csv
+*.json
+*.DS_Store
+*.gz
